@@ -1,0 +1,126 @@
+body{
+    background: rgb(126, 121, 121);
+}
+
+.course-button{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+/* container box of course */
+.container{
+    height: 450px;
+    width: 900px;
+    border: 2px solid black;
+    margin-top: 100px;
+    background: white;
+    border: none;
+    border-radius: 10px;
+}
+.container-head{
+    text-align: center;
+    /* border: 2px solid red; */
+}
+/* .container-line{
+    margin-left: 300px;
+    color: palevioletred;
+} */
+.container-flex{
+    display: flex;
+    gap: 10px;
+}
+.container-flex1{
+    height: 350px;
+    width: 350px;
+    /* border: 2px solid red; */
+    overflow-y: scroll;
+    
+}
+.pro{
+    height: 40px;
+    width: 300px;
+    /* border: 2px solid green; */
+    margin-left: 10px;
+    margin-top: 0px;
+    background: rgb(12, 12, 139);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    text-align: left;
+}
+.pro:hover{
+    background: rgb(130, 147, 221);
+}
+.fullstack{
+    background:rgb(12, 12, 139);
+    color: white;
+    height: 40px;
+    width: 300px;
+    margin-top: 5px;
+    /* border: 2px solid green; */
+    margin-left: 10px;
+    border: none;
+    border-radius: 10px;
+    text-align: left;
+}
+.fullstack:hover{
+    background: rgb(130, 147, 221);
+}
+.dig,.data,.cloud,.it,.web,.ui,.dd,.mpd,.st,.rpa,.auto{
+    background:rgb(12, 12, 139);
+    color: white;
+    height: 40px;
+    width: 300px;
+    margin-top: 5px;
+    /* border: 2px solid green; */
+    margin-left: 10px;
+    border: none;
+    border-radius: 10px;
+    text-align: left;
+}
+.dig:hover,.data:hover,.cloud:hover,.it:hover,.web:hover,
+.ui:hover,.dd:hover,.mpd:hover,.st:hover,.rpa:hover,.auto:hover{
+    background: rgb(130, 147, 221);
+}
+.pro span{margin-left: 170px;}
+.fullstack span{margin-left: 200px;}
+.dig span{margin-left: 140px;}
+.data span{margin-left: 170px;}
+.cloud span{margin-left: 140px;}
+.it span{margin-left: 190px;}
+.web span{margin-left: 130px;}
+.ui span{margin-left: 145px;}
+.dd span{margin-left: 95px;}
+.mpd span{margin-left: 80px;}
+.st span{margin-left: 145px;}
+.rpa span{margin-left: 232px;}
+.auto span{margin-left: 115px;}
+
+.container-flex2{
+    height: 350px;
+    width: 500px;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    background: rgb(130, 147, 221);
+    overflow-y: scroll;
+}
+.new{
+    display: flex;
+}
+.language-card{
+    gap: 30px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.new1{
+    display: flex;
+}
+.new2{
+    
+    display: flex;
+}
+.new3{
+    display: flex;
+}
+.new4{
+    display: flex;
+}

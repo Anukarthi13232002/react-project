@@ -1,0 +1,107 @@
+.foot-bg{
+    background: rgb(7, 48, 110);
+    width: 1450px;
+    height: 750px;
+}
+.logo-img{
+    margin-left: 130px;
+    margin-top: 100px;
+}
+.foot-content{
+    color: white;
+    width: 440px;
+    margin-left: 130px;
+}
+
+.footer-section {
+  color: white;
+}
+.quick{
+    color: white;
+    margin-top: 130px;
+}
+.list{
+    color: white;
+    margin-top: 50px;
+    list-style: none;
+  width: 300px;
+  height: 200px;
+  margin-left: 50px;
+}
+.list ul {
+  list-style-type: disc;   /* Show default bullet */
+  padding-left: 20px;      /* Space to show bullet clearly */
+  margin: 0;
+}
+
+.list ul li {
+  margin-bottom: 10px;     /* Gap between items */
+}
+
+.list ul li a {
+  color: white;            /* White link text */
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 550;
+  transition: color 0.3s ease;
+}
+
+.list ul li a:hover {
+  color: deepskyblue;          /* Hover color */
+}
+
+/* .last{
+    color: white;
+    margin-top: ;
+} */
+
+
+.footer-contact {
+  color: white;
+  margin-top: 130px;
+  width: 300px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.icon-style {
+  font-size: 18px;
+  margin-top: 3px;
+  color: white;
+}
+/* .foot{
+    width: 1300px;
+    height: 100px;
+    margin-top: 45px;
+    background: rgb(7, 48, 110);
+} */
+
+.hr{
+    color: white;
+}
+.foot1{
+    color: white;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+.items{
+    margin-left: 30px;
+}
+.items1{
+    margin-left: 60px;
+}
+.log{
+    display: flex;
+    margin-left: 200px;
+}
+.log img{
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+}
